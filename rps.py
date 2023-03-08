@@ -41,3 +41,5 @@ if user_points > comp_points:
     print("YAY! We won with " + str(user_points) + " points!")
 else:
     print("Aww we lost to the computer... we had " + str(user_points) + " points and the computer had " + str(comp_points) + " points.")
+
+# commit1
